@@ -1,10 +1,4 @@
-# clean-energy-lab-internship-laos
-An interactive web-based GIS application for visualizing hydropower dams across Laos. The platform enables users to explore dam locations, spatial distribution, and related information through an interactive satellite map. Developed using HTML, CSS, JavaScript, Leaflet, and GeoJSON.
-<!DOCTYPE html>
-<html>
-<head>
-    
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+ <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
